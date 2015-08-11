@@ -9,8 +9,9 @@
 
 Pod::Spec.new do |s|
   s.name             = "CocoaLoggerFormatter"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "A logger formatter used with CocoaLumbarjack."
+  s.requires_arc     = true
   s.description      = <<-DESC
                        A reusable logger formatter using with CocoaLumbarjack.
 
@@ -35,7 +36,7 @@ Pod::Spec.new do |s|
   #   'CocoaLoggerFormatter' => ['Pod/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'Classes/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'CocoaLumberjack', '~> 2.0'
 end
