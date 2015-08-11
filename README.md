@@ -1,9 +1,5 @@
 # CocoaLoggerFormatter
 
-[![CI Status](http://img.shields.io/travis/Jerry Tian/CocoaLoggerFormatter.svg?style=flat)](https://travis-ci.org/Jerry Tian/CocoaLoggerFormatter)
-[![Version](https://img.shields.io/cocoapods/v/CocoaLoggerFormatter.svg?style=flat)](http://cocoapods.org/pods/CocoaLoggerFormatter)
-[![License](https://img.shields.io/cocoapods/l/CocoaLoggerFormatter.svg?style=flat)](http://cocoapods.org/pods/CocoaLoggerFormatter)
-[![Platform](https://img.shields.io/cocoapods/p/CocoaLoggerFormatter.svg?style=flat)](http://cocoapods.org/pods/CocoaLoggerFormatter)
 
 ## Usage
 
