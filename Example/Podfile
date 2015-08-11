@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CocoaLoggerFormatter_Example', :exclusive => true do
+  pod "CocoaLoggerFormatter", :path => "../"
+end
+
+target 'CocoaLoggerFormatter_Tests', :exclusive => true do
+  pod "CocoaLoggerFormatter", :path => "../"
+
+  
+end
